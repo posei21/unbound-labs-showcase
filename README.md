@@ -11,14 +11,18 @@ Public landing-page showcase for my technical interests, career development syst
 - Structured development loop: practice -> artifacts -> review -> improvement
 - Career-focused documentation that stays practical and execution-oriented
 
-## Unbound Games Branch
-- Branch: **Unbound Games**
-- Current titles:
-  - VillageCraft
-  - SpriteAdventureBattle
-- Supporting systems work:
-  - cAVes1.01 (Unity world/village generation and demo tooling passes)
-- Demo captures for these are being added next.
+## Unbound Games
+Unbound Games is the game-design track in this portfolio, focused on systemic action gameplay, world progression, and long-horizon simulation loops.
+
+### SpriteAdventureBattle
+- A 2D action-RPG pathfinder designed for faster iteration.
+- Initial focus is a tight arena-combat core with responsive, skill-driven encounters.
+- Long-term direction expands into survival-building and dynamic world governance systems.
+
+### VillageCraft
+- A 3D implementation of the same broader design vision.
+- Built in Unity with C# and curated asset pipelines.
+- Focused on immersive exploration, construction systems, and layered world simulation.
 
 ## Demo Shots
 ### Landing Page
