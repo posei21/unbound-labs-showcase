@@ -11,6 +11,15 @@ Public landing-page showcase for my technical interests, career development syst
 - Structured development loop: practice -> artifacts -> review -> improvement
 - Career-focused documentation that stays practical and execution-oriented
 
+## Unbound Games Branch
+- Branch: **Unbound Games**
+- Current titles:
+  - VillageCraft
+  - SpriteAdventureBattle
+- Supporting systems work:
+  - cAVes1.01 (Unity world/village generation and demo tooling passes)
+- Demo captures for these are being added next.
+
 ## Demo Shots
 ### Landing Page
 ![Landing page hero](assets/01-landing-hero.png)
