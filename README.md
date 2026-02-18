@@ -24,6 +24,28 @@ Unbound Games is the game-design track in this portfolio, focused on systemic ac
 - Built in Unity with C# and curated asset pipelines.
 - Focused on immersive exploration, construction systems, and layered world simulation.
 
+## Additional Product Tracks
+
+### Diagnostic TUI
+- A field-first terminal interface for structured triage and repeatable diagnostics workflows.
+- Designed to reduce ambiguity during incident handling through consistent operator steps.
+- Positioned as a practical tooling layer for faster issue isolation and cleaner handoffs.
+
+### Nourish
+- A personalized nutrition and meal-planning product focused on decision support and routine adherence.
+- Emphasizes user context, actionable recommendations, and long-term consistency.
+- Explores AI-assisted planning as a quality-of-life multiplier, not a novelty feature.
+
+### LegalKit
+- A compliance experience focused on simplifying policy management and operational readiness.
+- Centers on clear policy generation, consent visibility, and practical website compliance coverage.
+- Built as a reliability-oriented toolkit for teams that need confidence without legal complexity overhead.
+
+### Debug Lab
+- A hands-on protocol and systems validation environment for embedded debugging workflows.
+- Focuses on instrumentation discipline, reproducible test paths, and evidence-based troubleshooting.
+- Serves as the practical bridge between theory and high-pressure diagnostic execution.
+
 ## Demo Shots
 ### Landing Page
 ![Landing page hero](assets/01-landing-hero.png)
